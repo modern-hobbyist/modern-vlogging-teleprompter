@@ -2,8 +2,8 @@
 A Mini version of the teleprompter I previously made, for handheld filming and vlogging
 
 # PCB Files
-This project was sponsored by PCBWay who provided the PCB manufacturing for this project! Check them out here to get PCB's for your next project!
-[https://www.pcbway.com/](https://www.pcbway.com/)
+**This project was sponsored by PCBWay who provided the PCB manufacturing for this project! Check them out here to get PCB's for your next project!
+[https://www.pcbway.com/](https://www.pcbway.com/)**
 
 The Gerber files for the Macro Keyboard can be found in this repository in a zip file. 
 This should be all you need to order custom PCB's to recreate this project.
